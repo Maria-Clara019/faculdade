@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 int determinante3x3(float **matriz){
 	int p1, p2,p3;
 	int s1, s2, s3;
