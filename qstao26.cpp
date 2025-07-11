@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 //Lista 1 - 26
 
 int tempodejogo( int horaI, int horaF){
